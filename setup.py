@@ -17,7 +17,7 @@ setup(
   author_email='rios@cl.uzh.ch',
   url='https://github.com/a-rios/ats-models.git',
   keywords=['ATS'],
-  install_requires=['torch', 'transformers', 'numpy', 'pytorch_lightning', 'rouge_score', 'sacrebleu', 'datasets', 'sentencepiece'],
+  install_requires=['torch', 'transformers', 'numpy', 'pytorch_lightning', 'rouge_score', 'sacrebleu', 'datasets', 'sentencepiece', 'beautifulsoup4'],
   long_description=long_description,
   long_description_content_type='text/markdown',
   classifiers=[
